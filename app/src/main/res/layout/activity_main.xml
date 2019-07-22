@@ -9,7 +9,6 @@
     <include
         layout="@layout/support_toolbar"/>
 
-
     <Button
         android:text="@string/show_recyclerview"
         android:textAllCaps="false"
